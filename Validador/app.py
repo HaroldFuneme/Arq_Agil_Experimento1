@@ -1,10 +1,7 @@
-
-
 from Validador.vistas.vistas import VistaValidador
 from Validador import create_app
 from flask_restful import Resource, Api
 from flask import Flask, request
-
 # import requests
 
 
